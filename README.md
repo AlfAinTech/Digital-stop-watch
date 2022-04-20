@@ -10,7 +10,7 @@ sudo npm install -g http-server
 
 
 ```
-sudo npm 
+sudo npm install
 ```
 
 Then you can start your own development web server to serve static files from any folder by running:
